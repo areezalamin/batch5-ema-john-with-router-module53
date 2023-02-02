@@ -1,0 +1,128 @@
+.SignIn-container {
+  box-sizing: border-box;
+  width: 500px;
+  height: 600px;
+  left: 484px;
+  top: 208px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    #ffffff;
+  border: 1px solid #95a0a7;
+  border-radius: 8px;
+  margin: 0 auto;
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+.signIn {
+  margin: 0 auto;
+  width: 83px;
+  height: 42px;
+  left: 692px;
+  top: 246px;
+  margin-top: 30px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 42px;
+  letter-spacing: 0.0025em;
+  color: #2a414f;
+}
+.input-type {
+  width: 415px;
+  height: 84px;
+  left: 526px;
+  top: 317px;
+  margin: 0 auto;
+}
+
+.Input-name {
+  width: 41px;
+  height: 20px;
+  left: 528px;
+  top: 293px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  letter-spacing: 0.0015em;
+  color: #2a414f;
+}
+.input-group input {
+  box-sizing: border-box;
+  width: 415px;
+  height: 55px;
+  left: 518px;
+  top: 322px;
+  border: 1px solid #95a0a7;
+  border-radius: 5px;
+}
+.from-submit {
+  margin-top: 44px;
+  margin-left: 42px;
+  margin-bottom: 9px;
+  width: 415px;
+  height: 55px;
+  left: 526px;
+  top: 549px;
+  cursor: pointer;
+  background: rgba(255, 153, 0, 0.3);
+  border-radius: 5px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 25px;
+  letter-spacing: 0.0015em;
+  color: #0e161a;
+}
+.signIn-or-signUp {
+  width: 263px;
+  height: 18px;
+  left: 602px;
+  top: 613px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: 0.0025em;
+  color: #2a414f;
+  margin: 0 auto;
+}
+.signIn-or-signUp a {
+  text-decoration: none;
+
+  letter-spacing: 0.0025em;
+
+  color: #ff9900;
+}
+.horizontal-role {
+  display: flex;
+  margin: 0 auto;
+  margin-top: 30px;
+  width: 354px;
+  height: 20px;
+  left: 557px;
+  top: 661px;
+}
+.horizontal-role hr {
+  width: 145px;
+  height: 0px;
+  left: 557px;
+  top: 672px;
+  border: 1px solid #95a0a7;
+}
+.horizontal-role p {
+  width: 16px;
+  height: 20px;
+  left: 724px;
+  top: 661px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  letter-spacing: 0.005em;
+  color: #95a0a7;
+}
